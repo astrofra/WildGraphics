@@ -106,17 +106,20 @@ Those of you who have forgotten to send stamps to receive future newsletters sho
 
 ## Commodore: Shameful!
 
-After deciding to provide an AmigaNews reader with the AmigaDos manual and the Arexx guide in exchange for a photocopy of an invoice, Commodore now offers the kit in question to all users eager to fully utilize their machine for the modest sum of 175 F!
+After deciding to provide an AmigaNews reader with the AmigaDos manual and the Arexx guide in exchange for a photocopy of an invoice, Commodore now offers the kit in question to all users eager to fully utilize their machine for the modest sum of 175 F[^1]!
 
 It's no wonder that average users who own an Amiga 1200 without a hard drive, without documentation, and especially without programming language have little desire to explore other areas beyond gaming, given how determinedly Commodore encourages users.
 
 That's why a beginners' section has appeared in AmigaNews for several months. Good luck to the new users.
 
 ## Wild Graphics
-Minitel : 3614chez*WG
+Minitel : 3614chez`*`WG[^2]
 
 ------
 
 _Wild Graphics No 1_
+
+[^1]: French Francs
+[^2]: The Minitel was a French pre-Internet telecommunications system that provided users with access to various online services, such as directory assistance, news, and messaging, through a dedicated terminal and phone line.
 
 
